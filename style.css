@@ -1,0 +1,12 @@
+
+body {
+    background: #01060f;
+}
+header.bg-gradient {
+    background: linear-gradient(135deg, #4e54c8, #8f94fb);
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
